@@ -2,7 +2,7 @@
 
 ### I'm a Front-end Developer
 
-I like
+#### I like
 
 - :pizza: pizza
 - :walking: walking
@@ -16,9 +16,8 @@ and coding of course :computer:
 
 [<img align="left" alt="HTML5" width="26px" src="icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="HTML5" width="26px" src="icons/instagram.svg" />][instagram]
-<br />
 
----
+<br />
 
 ### Skils and Tools:
 
@@ -35,27 +34,15 @@ and coding of course :computer:
 <img align="left" alt="HTML5" width="26px" src="icons/csharp.svg" />
 <!-- <br/>
 <br/> -->
-<img align="left" alt="Nodejs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
-<img align="left" alt="HTML5" width="26px" src="icons/mysql.svg" />
-<img align="left" alt="HTML5" width="26px" src="icons/sql.svg" />
-<img align="left" alt="VSCode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Github" width="26px" src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png" />
-<img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />
+f
+<br />
+<br />
 
-<!--
-**NoNTvonG/NoNTvonG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<img align="left" alt="NoNTvonG Github Stats" src="https://github-readme-stats.vercel.app/api?username=nontvong&count_private=true">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+<img align="left" alt="NoNTvonG Github Stats" src="https://github-readme-stats.vercel.app/api?username=nontvong&show_icons=true&hide_border=true&theme=onedark">
 
 [linkedin]: https://www.linkedin.com/in/roman-pyrih-19333a1a1/
 [instagram]: https://www.instagram.com/nontvong/
