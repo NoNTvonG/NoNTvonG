@@ -52,7 +52,7 @@
 
 ---
 
-<img align="left" alt="NoNTvonG Github Stats" src="https://github-readme-stats.vercel.app/api?username=nontvong&show_icons=true&hide_border=true&theme=onedark">
+<img align="left" alt="NoNTvonG Github Stats" src="https://github-readme-stats.vercel.app/api?username=nontvong&show_icons=true&hide_border=true&theme=nord">
 
 [linkedin]: https://www.linkedin.com/in/roman-pyrih-19333a1a1/
 [instagram]: https://www.instagram.com/nontvong/
