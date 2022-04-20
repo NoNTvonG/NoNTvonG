@@ -1,4 +1,4 @@
-## Hello, I'm NoNTvonG :wave:
+## Hello, I'm Roman :wave:
 
 ### I'm a Front-end Developer 👨‍💻
 
